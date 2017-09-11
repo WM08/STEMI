@@ -1,0 +1,135 @@
+*{
+	margin: 0;
+	padding:0;
+	list-style: none;
+	text-decoration: none;
+}
+.navbar-brand{
+				position: relative;
+				top: -20px;
+
+			}
+.daohang{
+	position: fixed;
+	z-index: 20;
+	width: 100%
+	
+} 
+.navbar-right li{
+  margin-left:20px;
+}
+.one{
+	font-size: 20px;
+	
+	border-bottom:2px solid #00387d;
+}
+.section-first{
+	background: url('../img/crowdfunding-hero.jpg') no-repeat;
+	background-size: 100%;
+	padding:100px;
+
+}
+.lead{
+	margin:40px 0;
+}
+.item{
+	padding:0px 200px;
+} 
+ .item>ul{
+  float: left;
+  margin-right:125px;
+  margin-left: 3px;
+  font-size:20px;
+  color:#00387d;
+  width:230px;
+  
+} 
+.item .foo{
+	margin-right:0px;
+}
+.item ul li{
+	margin:20px 0;
+}
+.item ul li:nth-of-type(10){
+	margin-bottom:100px;
+}
+.logo img{
+	width:100%;
+}
+
+.logo1 img{
+	width:100%;
+}
+
+.foot{
+	margin-top:30px;
+}
+
+.foot span{  
+	margin:0 20px;
+}
+#nanobit{
+	background:url('../img/nanobit.jpg') no-repeat;
+	background-size:100%;
+}
+#terminal-works{
+	background:url('../img/terminal-works.jpg') no-repeat;
+	background-size:100%;
+}#infinum{
+	background:url('../img/infinum.jpg') no-repeat;
+	background-size:100%;
+}#rimac-automobili{
+	background:url('../img/rimac-automobili.jpg') no-repeat;
+	background-size:100%;
+}#avalon{
+	background:url('../img/avalon.jpg') no-repeat;
+	background-size:100%;
+}#ericson-nikola-tesla{
+	background:url('../img/ericson-nikola-tesla.jpg') no-repeat;
+	background-size:100%;
+}#elicon{
+	background:url('../img/elicon.jpg') no-repeat;
+	background-size:100%;
+}#jgl{
+	background:url('../img/jgl.jpg') no-repeat;
+	background-size:100%;
+}#logit{
+	background:url('../img/logit.jpg') no-repeat;
+	background-size:100%;
+}#five{
+	background:url('../img/five.jpg') no-repeat;
+	background-size:100%;
+}#ciceron{
+	background:url('../img/ciceron.jpg') no-repeat;
+	background-size:100%;
+}#konto{
+	background:url('../img/konto.jpg') no-repeat;
+	background-size:100%;
+}#altpro{
+	background:url('../img/altpro.jpg') no-repeat;
+	background-size:100%;
+}#manjgura{
+	background:url('../img/manjgura.jpg') no-repeat;
+	background-size:100%;
+}#surogat{
+	background:url('../img/surogat.jpg') no-repeat;
+	background-size:100%;
+}#hr-cloud{
+	background:url('../img/hr-cloud.jpg') no-repeat;
+	background-size:100%;
+}#bruketa_zinic{
+	background:url('../img/bruketa_zinic.jpg') no-repeat;
+	background-size:100%;
+}#concero{
+	background:url('../img/concero.jpg') no-repeat;
+	background-size:100%;
+}#microblink{
+	background:url('../img/microblink.jpg') no-repeat;
+	background-size:100%;
+}#dgs{
+	background:url('../img/dgs.jpg') no-repeat;
+	background-size:100%;
+}#t-com{
+	background:url('../img/t-com.jpg') no-repeat;
+	background-size:100%;
+}
